@@ -2,7 +2,7 @@
 
 > A Vue-based draggable *thingy* for ESL learners
 
-ESL learners can story telling. Use your favorite sentence structures and images. **Works great on interactive whiteboards.**
+ESL learners can practice telling stories with a randomized assortment of images. Use your favorite sentence structures and images. **Works great on interactive whiteboards.**
 
 ## How to use
 
