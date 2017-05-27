@@ -1,6 +1,8 @@
-# story-words
+# Story Words
 
 > A Vue-based draggable *thingy* for ESL learners
+
+![](demo-story-words.gif)
 
 ESL learners can story telling. Use your favorite sentence structures and images. **Works great on interactive whiteboards.**
 
